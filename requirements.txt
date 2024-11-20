@@ -4,7 +4,7 @@ charset-normalizer==2.0.12
 Django
 docopt==0.6.2
 idna==3.3
-requests==2.27.1
+requests==2.32.1
 sqlparse==0.4.2
 urllib3==1.26.9
 yarg==0.1.9
